@@ -51,10 +51,4 @@ Designed to streamline administrative tasks at the **barangay (village)** level,
 | **Language** | .NET / C# |
 | **Architecture** | Desktop Application (Client-Server) |
 
----
 
-## ⚙️ Installation Guide
-
-1. **Clone this repository**
-   ```bash
-   git clone https://github.com/your-username/barangay-record-management-system.git
